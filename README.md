@@ -965,7 +965,7 @@ Imagens de dermatoscopia do ISIC Archive (licença CC-0). Diagnóstico e dados c
 | `ANAT-0026` | Уво.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/da/%D0%A3%D0%B2%D0%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 | `ANAT-0027` | सफाई.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/7f/%E0%A4%B8%E0%A4%AB%E0%A4%BE%E0%A4%88.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 
-## 🗂️ Hanseniase e Lepra (172 Imagens)
+## 🗂️ Hanseniase e Lepra (176 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
@@ -1141,26 +1141,38 @@ Imagens de dermatoscopia do ISIC Archive (licença CC-0). Diagnóstico e dados c
 | `HANS-0170` | Victim of leprosy Wellcome L0034647.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/42/Victim_of_leprosy_Wellcome_L0034647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 | `HANS-0171` | Wooden model of a 1400s alms bowl, England, 1917-1920 Wellcome L0058453.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/81/Wooden_model_of_a_1400s_alms_bowl%2C_England%2C_1917-1920_Wellcome_L0058453.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 | `HANS-0172` | Wound care facility for ulcers in Cote dIvoire tropicalmed-03-00120-g002.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/74/Wound_care_facility_for_ulcers_in_Cote_dIvoire_tropicalmed-03-00120-g002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HANS-0173` | Mácula Hipocrômica com Perda de Sensibilidade (Cotovelo) — Hanseníase Paucibacilar | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/54/Paucibacillary_leprosy_%28PB%29.jpg) |
+| `HANS-0174` | Nódulos e Infiltração Difusa em Face, Orelha e Mãos — Hanseníase Multibacilar (Virchowiana) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/17/Lepromatous_leprosy_patient_Madagascar.jpg) |
+| `HANS-0175` | Placa Eritematosa de Bordas Bem Definidas no Dorso da Mão (Lesão "em Raquete", com Nervo Espessado) — Hanseníase Tuberculóide | [Acessar Imagem](https://openi.nlm.nih.gov/imgs/512/35/4516097/PMC4516097_abd-90-03-0420-g01.png) |
+| `HANS-0176` | Reação Hansênica (Eritema Nodosum Leprosum): Nódulos Eritêmato-Hiperpigmentados em Antebraço e Punho — Reação Hansênica Tipo 2 | [Acessar Imagem](https://openi.nlm.nih.gov/imgs/512/253/6859759/PMC6859759_IDOJ-10-663-g010.png) |
 
-## 🗂️ Infeccoes Bacterianas Pele (0 Imagens)
-
-| Código | Título do Arquivo | Link Direto (RAW) |
-| :--- | :--- | :--- |
-
-## 🗂️ Infeccoes Fungicas Micoses (0 Imagens)
-
-| Código | Título do Arquivo | Link Direto (RAW) |
-| :--- | :--- | :--- |
-
-## 🗂️ Infeccoes Virais Pele (0 Imagens)
+## 🗂️ Infeccoes Bacterianas Pele (3 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `INFE-0001` | Erisipela em Membro Inferior (Eritema Extenso da Perna) — Infecção Bacteriana (*Streptococcus*) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/d9/%C3%89rysip%C3%A8le_jambe-_Leg_erysipelas.jpg) |
+| `INFE-0002` | Impetigo Crostoso em Face (Região Nasal) — Infecção Bacteriana (*S. aureus* / *S. pyogenes*) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/71/Impetigo_Nase.jpg) |
+| `INFE-0003` | Celulite Infecciosa em Perna (Área de Eritema Demarcada a Caneta) — Infecção Bacteriana Profunda | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/1b/Left_cellulitis_of_leg.jpg) |
 
-## 🗂️ Infeccoes Parasitarias e Leishmaniose (0 Imagens)
+## 🗂️ Infeccoes Fungicas Micoses (2 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `INFE-0001` | Tinea Corporis / Tinha do Corpo (Placas Anulares em Tronco) — Infecção Fúngica (Dermatofitose) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/5c/Tinea_corporis.jpg) |
+| `INFE-0002` | Esporotricose em Membro Superior (Lesões Ulceradas ao Longo do Braço) — Infecção Fúngica (*Sporothrix*) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/7a/Sporotrichosis_by_the_fungus_Sporothrix_schenckii_PHIL_3940_lores.jpg) |
+
+## 🗂️ Infeccoes Virais Pele (2 Imagens)
+
+| Código | Título do Arquivo | Link Direto (RAW) |
+| :--- | :--- | :--- |
+| `INFE-0001` | Lesões Agrupadas de Herpes Zoster em Dermátomo (Tórax) — Infecção Viral (Varicela-Zoster) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/19/Herpes_zoster_chest.png) |
+| `INFE-0002` | Molusco Contagioso (Pápulas Umbilicadas) — Infecção Viral (Poxvírus) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a4/Molluscaklein.jpg) |
+
+## 🗂️ Infeccoes Parasitarias e Leishmaniose (1 Imagem)
+
+| Código | Título do Arquivo | Link Direto (RAW) |
+| :--- | :--- | :--- |
+| `INFE-0001` | Leishmaniose Cutânea (Úlcera em Moldura no Dorso da Mão) — Infecção Parasitária (*Leishmania*) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/67/Skin_ulcer_due_to_leishmaniasis%2C_hand_of_Central_American_adult_3MG0037_lores.jpg) |
 
 ## 🗂️ DST e Infeccoes Sexualmente Transmissiveis (0 Imagens)
 
