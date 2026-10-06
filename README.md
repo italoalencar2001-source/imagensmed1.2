@@ -6,6 +6,8 @@ Catálogo completo abrangendo Anatomia Humana, Patologias Globais, Diagnóstico 
 Cada seção fica em um arquivo próprio, porque o GitHub corta a exibição de páginas muito grandes.
 Para ver tudo em um arquivo só, abra o [BANCO_COMPLETO.md](BANCO_COMPLETO.md).
 
+O arquivo [catalogo.jsonl](catalogo.jsonl) é o catálogo pesquisável: uma imagem por linha, com descrição, palavras-chave, autor, licença, tamanho e a marca de conferida.
+
 ## Índice
 
 | Nº | Seção | Imagens | Códigos |
