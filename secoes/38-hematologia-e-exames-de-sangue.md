@@ -1,0 +1,40 @@
+# 🗂️ Hematologia e Exames de Sangue (34 Imagens)
+
+[← Voltar ao índice](../README.md)
+
+| Código | Título do Arquivo | Link Direto (RAW) |
+| :--- | :--- | :--- |
+| `HEMA-0001` | Ascitic fluid analysis-Findings.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/34/Ascitic_fluid_analysis-Findings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0002` | Blood Types.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e2/Blood_Types.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0003` | Bloodcell sun flares pathology.jpeg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/cd/Bloodcell_sun_flares_pathology.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0004` | Cabot rings.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/3e/Cabot_rings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0005` | CBC Analyzer.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/38/CBC_Analyzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0006` | Cell cycle (5 stages of mitotic cell life).jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/c8/Cell_cycle_%285_stages_of_mitotic_cell_life%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0007` | CircolazioneLiquidi.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/db/CircolazioneLiquidi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0008` | Comparative Analysis of Frog Blood and Human Blood.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/99/Comparative_Analysis_of_Frog_Blood_and_Human_Blood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0009` | EconomiaEmatica.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/7c/EconomiaEmatica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0010` | Haematology and Clinical Chemistry of Fur Animals, Asbjorn Brandt, 1989.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/ba/Haematology_and_Clinical_Chemistry_of_Fur_Animals%2C_Asbjorn_Brandt%2C_1989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0011` | Hematology .jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a5/Hematology_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0012` | Hematology chemistry mixer (4740278576).jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/2b/Hematology_chemistry_mixer_%284740278576%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0013` | Hematology Fishbone Schematic.png | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/cb/Hematology_Fishbone_Schematic.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0014` | Ibm2991crop.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/90/Ibm2991crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0015` | ICAHO.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/5e/ICAHO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0016` | Isolines of Contractility.png | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f9/Isolines_of_Contractility.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0017` | Isolines of Vasoactivity.png | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/5f/Isolines_of_Vasoactivity.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0018` | Lipaemie1.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b0/Lipaemie1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0019` | Manufactura de celulas CAR.png | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/81/Manufactura_de_celulas_CAR.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0020` | Megaloblasts in bone marrow.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/c3/Megaloblasts_in_bone_marrow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0021` | Minicap.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/dd/Minicap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0022` | Mott cell.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a1/Mott_cell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0023` | Nucleated red blood cell with Cabot rings and basophilic granules.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/4b/Nucleated_red_blood_cell_with_Cabot_rings_and_basophilic_granules.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0024` | Paf sintesi.png | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f0/Paf_sintesi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0025` | Perfusion and Hemodynamic Modulation Schematic Diagram.png | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/6c/Perfusion_and_Hemodynamic_Modulation_Schematic_Diagram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0026` | PSM V11 D334 Oxygenation of blood.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/90/PSM_V11_D334_Oxygenation_of_blood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0027` | Reference ranges for blood tests - by mass.png | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/14/Reference_ranges_for_blood_tests_-_by_mass.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0028` | Rouleaux formation side view.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/87/Rouleaux_formation_side_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0029` | Schéma nanocapsules dans le sang.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e0/Sch%C3%A9ma_nanocapsules_dans_le_sang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0030` | SOHO 2024 Annual Meeting.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/93/SOHO_2024_Annual_Meeting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0031` | Sysmex 5-part hematology analyzer.png | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/7f/Sysmex_5-part_hematology_analyzer.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0032` | Thrombocyte-leukocyte (buffy coat) layer.png | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/1c/Thrombocyte-leukocyte_%28buffy_coat%29_layer.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0033` | Torque-displacement.JPG | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/1f/Torque-displacement.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
+| `HEMA-0034` | 白血球分画.png | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/7f/%E7%99%BD%E8%A1%80%E7%90%83%E5%88%86%E7%94%BB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
