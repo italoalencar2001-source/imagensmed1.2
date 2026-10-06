@@ -509,30 +509,115 @@ Imagens de dermatoscopia do ISIC Archive (licença CC-0). Diagnóstico e dados c
 | `DERM-0499` | Nevo composto (benigno) — tronco anterior (tórax) — ISIC_0000498 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000498.jpg) |
 | `DERM-0500` | Nevo composto (benigno) — tronco lateral — ISIC_0000499 | [Acessar Imagem](https://isic-archive.s3.amazonaws.com/images/ISIC_0000499.jpg) |
 
-## 🗂️ Anatomia Planos Cortes e Posicoes (0 Imagens)
+## 🗂️ Anatomia Planos Cortes e Posicoes (9 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `ANAT-0001` | Posição anatômica (corpo ereto, palmas das mãos voltadas para a frente). Crédito: OpenStax College (Connexions); CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b2/Anatomical_position.jpg) |
+| `ANAT-0002` | Planos do corpo: sagital, frontal (coronal) e transversal. Crédito: OpenStax College (Connexions); CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e5/Planes_of_Body.jpg) |
+| `ANAT-0003` | Planos anatômicos com legendas: mediano, parassagital, frontal e transversal. Crédito: David Richfield and Mikael Häggström; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/03/Human_anatomy_planes%2C_labeled.jpg) |
+| `ANAT-0004` | Termos de direção e posição (anterior/posterior, superior/inferior, medial/lateral, proximal/distal). Crédito: OpenStax College (Connexions); CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e1/Directional_Terms.jpg) |
+| `ANAT-0005` | Regiões do corpo humano, vistas anterior e posterior. Crédito: OpenStax College (Connexions); CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/5a/Regions_of_Human_Body.jpg) |
+| `ANAT-0006` | Cavidades do corpo, vista frontal (torácica, abdominal e pélvica). Crédito: OpenStax; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b7/Body_Cavities_Frontal_view_labeled.jpg) |
+| `ANAT-0007` | Cavidades do corpo, vista lateral (cavidades dorsal e ventral). Crédito: OpenStax; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/45/Body_Cavities_Lateral_view_labeled.jpg) |
+| `ANAT-0008` | Divisão do abdome em nove regiões e em quatro quadrantes. Crédito: OpenStax; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/c9/Abdominal_Quadrant_Regions.jpg) |
+| `ANAT-0009` | Movimentos angulares: flexão e extensão do ombro, do joelho e do pescoço. Crédito: Tonye Ogele (Connexions); CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/47/Flexion_and_extension_movements.jpg) |
 
-## 🗂️ Anatomia Ossos e Esqueleto (0 Imagens)
-
-| Código | Título do Arquivo | Link Direto (RAW) |
-| :--- | :--- | :--- |
-
-## 🗂️ Anatomia Acidentes e Marcas Ossehas (0 Imagens)
-
-| Código | Título do Arquivo | Link Direto (RAW) |
-| :--- | :--- | :--- |
-
-## 🗂️ Anatomia Musculos e Tendoes (0 Imagens)
-
-| Código | Título do Arquivo | Link Direto (RAW) |
-| :--- | :--- | :--- |
-
-## 🗂️ Anatomia Vasos Artérias e Veias (0 Imagens)
+## 🗂️ Anatomia Ossos e Esqueleto (14 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `ANAT-0001` | Esqueleto humano completo: esqueleto axial e esqueleto apendicular. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b1/701_Axial_Skeleton-01.jpg) |
+| `ANAT-0002` | Classificação dos ossos pela forma (longos, curtos, planos, irregulares e sesamoides). Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/60/601_Bone_Classification.jpg) |
+| `ANAT-0003` | Anatomia de um osso longo (epífise, diáfise, canal medular, periósteo). Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/23/603_Anatomy_of_Long_Bone.jpg) |
+| `ANAT-0004` | Crânio, vista anterior. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/d7/704_Skull-01.jpg) |
+| `ANAT-0005` | Crânio, vista lateral. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/bd/705_Lateral_View_of_Skull-01.jpg) |
+| `ANAT-0006` | Crânio do recém-nascido, com as fontanelas. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/2c/702_Newborn_Skull-01.jpg) |
+| `ANAT-0007` | Coluna vertebral: regiões cervical, torácica, lombar, sacro e cóccix, com as curvaturas. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/82/715_Vertebral_Column.jpg) |
+| `ANAT-0008` | Caixa torácica: esterno, costelas e cartilagens costais. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/5a/721_Rib_Cage.jpg) |
+| `ANAT-0009` | Cintura escapular: clavícula e escápula. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/79/802_Pectoral_Girdle.jpg) |
+| `ANAT-0010` | Ossos da mão e do punho (carpo, metacarpo e falanges). Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/41/806_Hand_and_Wrist.jpg) |
+| `ANAT-0011` | Pelve: ossos do quadril, sacro e cóccix. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/3f/807_Pelvis.jpg) |
+| `ANAT-0012` | Diferenças entre a pelve masculina e a feminina. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/be/809_Male_Female_Pelvic_Girdle.jpg) |
+| `ANAT-0013` | Ossos do pé (tarso, metatarso e falanges). Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/52/812_Bones_of_the_Foot.jpg) |
+| `ANAT-0014` | Radiografia da mão, com as articulações indicadas. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b6/814_Radiograph_of_Hand.jpg) |
+
+## 🗂️ Anatomia Acidentes e Marcas Ossehas (20 Imagens)
+
+| Código | Título do Arquivo | Link Direto (RAW) |
+| :--- | :--- | :--- |
+| `ANAT-0001` | Acidentes ósseos: visão geral dos tipos de saliências, depressões e aberturas. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/17/602_Bone_Markings.jpg) |
+| `ANAT-0002` | Escápula: espinha, acrômio, processo coracoide, cavidade glenoidal e fossas. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/43/803_The_Scapula.jpg) |
+| `ANAT-0003` | Úmero e articulação do cotovelo: cabeça, tubérculos, epicôndilos, tróclea e capítulo. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/04/804_Humerus_and_Elbow.jpg) |
+| `ANAT-0004` | Ulna e rádio: olécrano, processo coronoide, cabeça do rádio e processos estiloides. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/ae/805_Ulna_and_Radius.jpg) |
+| `ANAT-0005` | Osso do quadril: ílio, ísquio e púbis, com acetábulo, cristas, espinhas e forame obturado. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/1d/808_Hip_Bone.jpg) |
+| `ANAT-0006` | Fêmur e patela: cabeça, colo, trocanteres, linha áspera e côndilos. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e3/810_Femur_and_Patella.jpg) |
+| `ANAT-0007` | Tíbia e fíbula: côndilos, tuberosidade da tíbia e maléolos. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a9/811_Tibia_and_fibula.jpg) |
+| `ANAT-0008` | Base do crânio, vistas superior e inferior, com os forames. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/3b/707_Superior-Inferior_View_of_Skull_Base-01.jpg) |
+| `ANAT-0009` | Fossas cranianas anterior, média e posterior. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/c6/727_Cranial_Fossae.jpg) |
+| `ANAT-0010` | Crânio em corte sagital. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/46/706_Sagittal_Section_of_Skull-01.jpg) |
+| `ANAT-0011` | Osso temporal: processo mastoide, processo estiloide, processo zigomático e meato acústico. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/43/708_Temporal_Bone.jpg) |
+| `ANAT-0012` | Osso esfenoide: asas, sela turca e processos pterigoides. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/6c/709_Sphenoid_Bone.jpg) |
+| `ANAT-0013` | Osso etmoide: lâmina cribriforme, crista galli e conchas nasais. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/12/710_Ethmoid_Bone.jpg) |
+| `ANAT-0014` | Maxila: processos e forame infraorbital. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a0/711_Maxilla.jpg) |
+| `ANAT-0015` | Mandíbula: corpo, ramo, ângulo, processo coronoide e côndilo. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e7/726_Mandible.jpg) |
+| `ANAT-0016` | Vértebra típica: corpo, arco, processos espinhoso, transversos e articulares. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f9/718_Vertebra.jpg) |
+| `ANAT-0017` | Vértebras cervicais, incluindo atlas e áxis. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/87/723_Cervical_Vertebrae.jpg) |
+| `ANAT-0018` | Vértebra torácica, com as fóveas para as costelas. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/08/719_Thoracic_Vertebra.jpg) |
+| `ANAT-0019` | Vértebras lombares. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/6f/725_Lumbar_Vertebrae.jpg) |
+| `ANAT-0020` | Sacro e cóccix, vistas anterior e posterior. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/68/720_Sacrum_and_Coccyx.jpg) |
+
+## 🗂️ Anatomia Musculos e Tendoes (20 Imagens)
+
+| Código | Título do Arquivo | Link Direto (RAW) |
+| :--- | :--- | :--- |
+| `ANAT-0001` | Visão geral dos músculos esqueléticos, vistas anterior e posterior. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/91/1105_Anterior_and_Posterior_Views_of_Muscles.jpg) |
+| `ANAT-0002` | Músculos da expressão facial (mímica), vistas anterior e lateral. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/19/1106_Front_and_Side_Views_of_the_Muscles_of_Facial_Expressions.jpg) |
+| `ANAT-0003` | Músculos extrínsecos do olho. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/4a/1107_The_Extrinsic_Eye_Muscles.jpg) |
+| `ANAT-0004` | Músculos da mastigação (movem a mandíbula). Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/30/1108_Muscle_that_Move_the_Lower_Jaw.jpg) |
+| `ANAT-0005` | Músculos anteriores do pescoço. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/74/1110_Muscle_of_the_Anterior_Neck.jpg) |
+| `ANAT-0006` | Músculos do pescoço e do dorso. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/9e/1117_Muscles_of_the_Neck_and_Back.jpg) |
+| `ANAT-0007` | Músculos da parede do abdome. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/50/1112_Muscles_of_the_Abdomen.jpg) |
+| `ANAT-0008` | Diafragma. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/70/1113_The_Diaphragm.jpg) |
+| `ANAT-0009` | Músculos do tórax (intercostais). Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/9a/1114_Thorax.jpg) |
+| `ANAT-0010` | Músculos do assoalho pélvico. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/3b/1115_Muscles_of_the_Pelvic_Floor.jpg) |
+| `ANAT-0011` | Músculos que posicionam a cintura escapular. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/91/1118_Muscles_that_Position_the_Pectoral_Girdle.jpg) |
+| `ANAT-0012` | Músculos que movem o úmero (ombro e braço). Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/7e/1119_Muscles_that_Move_the_Humerus.jpg) |
+| `ANAT-0013` | Músculos que movem o antebraço. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/73/1120_Muscles_that_Move_the_Forearm.jpg) |
+| `ANAT-0014` | Músculos intrínsecos da mão. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/0e/1121_Intrinsic_Muscles_of_the_Hand.jpg) |
+| `ANAT-0015` | Músculos da região glútea e da coxa. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/8f/1122_Gluteal_Muscles_that_Move_the_Femur.jpg) |
+| `ANAT-0016` | Músculos da perna (movem o pé e os dedos), com o tendão calcâneo (de Aquiles). Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/47/1123_Muscles_of_the_Leg_that_Move_the_Foot_and_Toes.jpg) |
+| `ANAT-0017` | Músculos intrínsecos do pé. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/04/1124_Intrinsic_Muscles_of_the_Foot.jpg) |
+| `ANAT-0018` | Formas dos músculos conforme a disposição dos fascículos. Crédito: OpenStax College; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/18/Fascicle_Muscle_Shapes.jpg) |
+| `ANAT-0019` | Estrutura do músculo esquelético: músculo, fascículos e fibras, com epimísio, perimísio, endomísio e sarcolema. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/dd/1007_Muscle_Fibes_%28large%29.jpg) |
+| `ANAT-0020` | Estrutura do músculo esquelético: osso, tendão, epimísio, perimísio, fascículo, endomísio e fibra muscular. Crédito: SEER / National Cancer Institute; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/89/Illu_muscle_structure.jpg) |
+
+## 🗂️ Anatomia Vasos Artérias e Veias (22 Imagens)
+
+| Código | Título do Arquivo | Link Direto (RAW) |
+| :--- | :--- | :--- |
+| `ANAT-0001` | Circulação sistêmica e circulação pulmonar. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/27/2003_Dual_System_of_Human_Circulation.jpg) |
+| `ANAT-0002` | Circuito pulmonar. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/36/2119_Pulmonary_Circuit.jpg) |
+| `ANAT-0003` | Principais artérias da circulação sistêmica. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/1f/2120_Major_Systemic_Artery.jpg) |
+| `ANAT-0004` | Aorta e seus ramos. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/df/2121_Aorta.jpg) |
+| `ANAT-0005` | Artérias carótidas e irrigação da cabeça e do pescoço. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/12/2122_Common_Carotid_Artery.jpg) |
+| `ANAT-0006` | Artérias do encéfalo. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f7/2123_Arteries_of_the_Brain.jpg) |
+| `ANAT-0007` | Polígono (círculo arterial) de Willis. Crédito: OpenStax; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/6b/1314_Circle_of_WillisN.jpg) |
+| `ANAT-0008` | Vasos coronários, vistas anterior e posterior do coração. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/7c/2014ab_Coronary_Blood_Vessels.jpg) |
+| `ANAT-0009` | Artérias do tórax e do abdome. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e9/2124_Thoracic_Abdominal_Arteries.jpg) |
+| `ANAT-0010` | Artérias do membro superior. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/26/2127_Thoracic_Upper_Limb_Arteries.jpg) |
+| `ANAT-0011` | Artérias do membro inferior, vistas anterior e posterior. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/1f/2129ab_Lower_Limb_Arteries_Anterior_Posterior.jpg) |
+| `ANAT-0012` | Principais veias da circulação sistêmica. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/fe/2131_Major_Systematic_Veins.jpg) |
+| `ANAT-0013` | Veias da cabeça e do pescoço. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/c4/2133_Head_and_Neck_Veins.jpg) |
+| `ANAT-0014` | Veias do tórax e do abdome. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/28/2132_Thoracic_Abdominal_Veins.jpg) |
+| `ANAT-0015` | Veias do membro superior. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b7/2134_Thoracic_Upper_Limb_Veins.jpg) |
+| `ANAT-0016` | Veias do membro inferior, vistas anterior e posterior. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/c8/2136ab_Lower_Limb_Veins_Anterior_Posterior.jpg) |
+| `ANAT-0017` | Sistema porta hepático. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/cf/2138_Hepatic_Portal_Vein_System.jpg) |
+| `ANAT-0018` | Circulação fetal. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/0b/2139_Fetal_Circulation.jpg) |
+| `ANAT-0019` | Os três tipos de capilar: contínuo, fenestrado e sinusoide. Crédito: OpenStax College; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/8d/2104_Three_Major_Capillary_Types.jpg) |
+| `ANAT-0020` | Leito capilar. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/49/2105_Capillary_Bed.jpg) |
+| `ANAT-0021` | Locais de palpação de pulso arterial. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/49/2110_Pulse_Sites.jpg) |
+| `ANAT-0022` | Comparação entre a parede de uma artéria e a de uma veia. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a4/2102_Comparison_of_Artery_and_Vein.jpg) |
 
 ## 🗂️ Anatomia Sistema Nervoso Central e Periferico (34 Imagens)
 
@@ -678,10 +763,24 @@ Imagens de dermatoscopia do ISIC Archive (licença CC-0). Diagnóstico e dados c
 | `ANAT-0003` | Respiratory system to colour.png | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/75/Respiratory_system_to_colour.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 | `ANAT-0004` | Schemaduoxlpo en.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/28/Schemaduoxlpo_en.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 
-## 🗂️ Anatomia Sistema Urogenital e Renal (0 Imagens)
+## 🗂️ Anatomia Sistema Urogenital e Renal (14 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `ANAT-0001` | Posição dos rins no abdome. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/52/2608_Kidney_Position_in_Abdomen.jpg) |
+| `ANAT-0002` | Anatomia interna do rim: córtex, medula, pirâmides, cálices e pelve renal. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/87/2610_The_Kidney.jpg) |
+| `ANAT-0003` | Vascularização do rim. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/82/2612_Blood_Flow_in_the_Kidneys.jpg) |
+| `ANAT-0004` | Glomérulo e aparelho justaglomerular. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/28/Juxtaglomerular_Apparatus_and_Glomerulus.jpg) |
+| `ANAT-0005` | Bexiga urinária. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/dc/2605_The_Bladder.jpg) |
+| `ANAT-0006` | Uretra feminina e uretra masculina. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/7d/Female_and_Male_Urethra.jpg) |
+| `ANAT-0007` | Bexiga e órgãos vizinhos na mulher (rins, ureteres, bexiga e uretra). Crédito: NIH Medical Arts; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a5/Bladder_and_nearby_organs_%28female%29.jpg) |
+| `ANAT-0008` | Bexiga e órgãos vizinhos no homem (rins, ureteres, bexiga, próstata e uretra). Crédito: NIH Medical Arts; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/ee/Bladder_and_nearby_organs_%28male%29.jpg) |
+| `ANAT-0009` | Sistema reprodutor feminino. Crédito: BruceBlaus (Blausen Medical); CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/96/Blausen_0399_FemaleReproSystem_01.png) |
+| `ANAT-0010` | Útero e órgãos vizinhos (ovários, tubas uterinas, colo do útero e vagina). Crédito: NIH Medical Arts; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/78/Uterus_and_nearby_organs.jpg) |
+| `ANAT-0011` | Testículo direito exposto pela abertura da túnica vaginal. Crédito: Henry Vandyke Carter; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/4d/Gray1148.png) |
+| `ANAT-0012` | Néfron e sua vascularização (arteríolas, glomérulo e capilares peritubulares). Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/2e/2611_Blood_Flow_in_the_Nephron.jpg) |
+| `ANAT-0013` | Néfron: secreção e reabsorção ao longo dos túbulos. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/26/2618_Nephron_Secretion_Reabsorption.jpg) |
+| `ANAT-0014` | Sistema reprodutor masculino em corte sagital, com legendas. Crédito: Laura Guerin / CK-12 Foundation; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/68/Human_male_reproductive_anatomy.png) |
 
 ## 🗂️ Anatomia Sistema Linfatico (70 Imagens)
 
@@ -1174,10 +1273,30 @@ Imagens de dermatoscopia do ISIC Archive (licença CC-0). Diagnóstico e dados c
 | :--- | :--- | :--- |
 | `INFE-0001` | Leishmaniose Cutânea (Úlcera em Moldura no Dorso da Mão) — Infecção Parasitária (*Leishmania*) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/67/Skin_ulcer_due_to_leishmaniasis%2C_hand_of_Central_American_adult_3MG0037_lores.jpg) |
 
-## 🗂️ DST e Infeccoes Sexualmente Transmissiveis (0 Imagens)
+## 🗂️ DST e Infeccoes Sexualmente Transmissiveis (20 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `DST-0001` | Sífilis primária: cancros duros no corpo do pênis. Crédito: CDC/M. Rein, VD; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/06/Chancres_on_the_penile_shaft_due_to_a_primary_syphilitic_infection_caused_by_Treponema_pallidum_6803_lores.jpg) |
+| `DST-0002` | Sífilis primária: cancro na língua. Crédito: Centers for Disease Control and Prevention (CDC); domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/ab/Primary_stage_syphilis_sore_%28chancre%29_on_the_surface_of_a_tongue-CDC.jpg) |
+| `DST-0003` | Sífilis secundária: exantema nas palmas das mãos. Crédito: Centers for Disease Control and Prevention (CDC); domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a3/Secondary_syphilis-palmar_rash.PNG) |
+| `DST-0004` | Sífilis secundária: exantema cutâneo no dorso. Crédito: CDC (Public Health Image Library); domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/9d/Secondary_syphilitic_rash_Treponema_pallidum_6756_lores.jpg) |
+| `DST-0005` | Sífilis secundária: lesões nas plantas dos pés. Crédito: Centers for Disease Control and Prevention (CDC); domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/1b/Secondary_stage_syphilis_sores_%28lesions%29_on_the_soles_of_the_feet._Plantar_lesions-CDC.jpg) |
+| `DST-0006` | Sífilis congênita: exantema em lactente. Crédito: CDC/Susan Lindsley; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/1a/Rash_of_congenital_syphilis.jpg) |
+| `DST-0007` | Sífilis congênita: dentes de Hutchinson. Crédito: CDC/Robert Sumpter; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/55/Congenital_syphilis_Hutchinson_teeth.jpg) |
+| `DST-0008` | Gonorreia: corrimento uretral purulento. Crédito: Travelstudy; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a6/Sample_Gonorrhea.jpg) |
+| `DST-0009` | Neisseria gonorrhoeae: diplococos Gram-negativos dentro de um neutrófilo. Crédito: Dr Graham Beards; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/6d/Neisseria_gonorrhoeae_diplococci_inside_a_neutrophil.jpg) |
+| `DST-0010` | Condiloma acuminado (verrugas genitais por HPV) no prepúcio. Crédito: Jmarchn; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/fd/Penile_warts.jpg) |
+| `DST-0011` | Condiloma acuminado: histologia em pequeno aumento (H&E). Crédito: Nephron; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/43/Condyloma_acuminatum_-_low_mag.jpg) |
+| `DST-0012` | Trichomonas vaginalis em coloração de May-Grünwald-Giemsa. Crédito: Dr Graham Beards; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/9d/Trichomonas_vaginalis_May-Gr%C3%BCnwald-Giemsa_staining.jpg) |
+| `DST-0013` | Chlamydia trachomatis: corpos de inclusão em cultura de células McCoy. Crédito: Marcus007 (Wikipédia em alemão); domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/aa/ChlamydiaTrachomatisEinschlussk%C3%B6rperchen.jpg) |
+| `DST-0014` | Donovanose (granuloma inguinal): corpúsculos de Donovan em amostra de lesão. Crédito: CDC/ Susan Lindsley; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a9/Donovan_bodies_%28Klebsiella_granulomatis%29_PHIL18899.png) |
+| `DST-0015` | Donovanose (granuloma inguinal): lesão genital. Crédito: autor não informado; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/c8/Donovanosis.JPG) |
+| `DST-0016` | Linfogranuloma venéreo: linfonodos inguinais aumentados (bubão). Crédito: Herbert L. Fred, MD and Hendrik A. van Dijk; CC BY 2.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/0b/Lymphogranuloma_venerum_-_lymph_nodes.jpg) |
+| `DST-0017` | Treponema pallidum em microscopia de campo escuro. Crédito: CDC/C.W. Hubbard; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/0a/Treponema_pallidum_cropped.png) |
+| `DST-0018` | Cancro mole (cancroide): lesão peniana. Crédito: CDC/Joe Miller; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/c2/Chancroid_lesion_haemophilus_ducreyi_PHIL_3728_lores.jpg) |
+| `DST-0019` | Cancro mole (cancroide): acometimento dos linfonodos inguinais (bubão). Crédito: CDC (Public Health Image Library); domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/01/Haemophilus_ducreyi_5811_lores.jpg) |
+| `DST-0020` | Herpes genital por HSV-2 confirmado por PCR. Crédito: Mikael Häggström; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/39/Genital_herpes.jpg) |
 
 ## 🗂️ Radiologia RaioX Torax e Geral (268 Imagens)
 
@@ -2640,10 +2759,29 @@ Imagens de dermatoscopia do ISIC Archive (licença CC-0). Diagnóstico e dados c
 | `ANAT-0031` | Tularemia (5185046307).jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f8/Tularemia_%285185046307%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 | `ANAT-0032` | Warthin Tumor of Parotid, FNA (8119581469).jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e7/Warthin_Tumor_of_Parotid%2C_FNA_%288119581469%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 
-## 🗂️ Traumas Fraturas e Lesoes (0 Imagens)
+## 🗂️ Traumas Fraturas e Lesoes (19 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `TRAU-0001` | Radiografia: fratura de Colles (rádio distal) com desvio. Crédito: Ashish j29; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/dc/Colles_fracture.JPG) |
+| `TRAU-0002` | Radiografia: fratura da clavícula direita. Crédito: mexican 2000; CC BY-SA 2.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f6/Clavicle_fracture.jpg) |
+| `TRAU-0003` | Radiografia: fratura espiral do úmero. Crédito: RSJThompson; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/00/Humerus_spiral_fracture.png) |
+| `TRAU-0004` | Radiografia: fratura do escafoide (seta). Crédito: Gilo1969; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a4/X-ray_of_scaphoid_fracture.png) |
+| `TRAU-0005` | Radiografia: luxação do ombro. Crédito: Hellerhoff; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/ae/Dislocated_shoulder_X-ray_01.png) |
+| `TRAU-0006` | Radiografia: fratura de tíbia e fíbula, incidência frontal, antes do reparo. Crédito: autor não informado; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/13/Fractured_TIBIA_FIBULA_01-15_1.jpg) |
+| `TRAU-0007` | Radiografia: fratura trimaleolar do tornozelo, antes e depois da fixação. Crédito: Chaim Mintz; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/bf/Trimalleolar_Ankle_Fracture.jpg) |
+| `TRAU-0008` | Radiografia: fratura por compressão da vértebra L3. Crédito: Lucien Monfils; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e0/Compressionfracture.jpg) |
+| `TRAU-0009` | Esquema: padrões de fratura vertebral por compressão (em cunha, bicôncava e por esmagamento). Crédito: Ro016281; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/68/Vertebral_Compression_Fracture_Patterns.png) |
+| `TRAU-0010` | Radiografia de tórax: fraturas de costelas. Crédito: Doctoroftcm; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/45/Rib_fracture_2347.jpg) |
+| `TRAU-0011` | Tomografia: hematoma epidural com fratura de crânio associada. Crédito: James Heilman, MD; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f9/EpiduralHematoma.jpg) |
+| `TRAU-0012` | Tomografia: hematoma subdural volumoso com desvio da linha média. Crédito: James Heilman, MD; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/5e/Subduralandherniation.PNG) |
+| `TRAU-0013` | Tomografia: fratura do osso temporal. Crédito: James Heilman, MD; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/36/Temporal_Bone_Skull_Fracture.jpg) |
+| `TRAU-0014` | Radiografia e tomografia: fratura blow-out do assoalho da órbita direita. Crédito: Hellerhoff; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/07/Blow-out_Fracture_des_Orbitabodens_rechts_14W_-_CR_und_CT_coronar_-_001.jpg) |
+| `TRAU-0015` | Tipos de fratura: fechada, exposta, transversa, espiral, cominutiva, impactada, em galho verde e oblíqua. Crédito: OpenStax College; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/35/612_Types_of_Fractures.jpg) |
+| `TRAU-0016` | Radiografia: fratura trocantérica cominutiva do quadril. Crédito: Rohan R. Memon, Drashtant Patel and Nishant Juva; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/d3/X-ray_of_a_comminuted_hip_fracture.jpg) |
+| `TRAU-0017` | Radiografia da pelve: fratura do colo do fêmur direito em mulher de 80 anos. Crédito: Drvaram; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/88/Neck_of_Femur_fracture_Right_side_in_a_80_years_old_female_patient.png) |
+| `TRAU-0018` | Radiografia da pelve em AP: fratura do ramo púbico inferior esquerdo. Crédito: Cerevisae; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/9c/Pelvis_AP_view_showing_fracture_of_the_left_ischium_and_left_acetabular_wall.jpg) |
+| `TRAU-0019` | Radiografia: fratura exposta da diáfise da tíbia e da fíbula. Crédito: MustafaSalahalden; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/01/Tibial_and_fibular_shaft_fracture_%28open_fracture%29.jpg) |
 
 ## 🗂️ Queimaduras e Feridas Complexas (52 Imagens)
 
@@ -3174,30 +3312,123 @@ Imagens de dermatoscopia do ISIC Archive (licença CC-0). Diagnóstico e dados c
 | `CIRU-0466` | לינת חולים - פאלאטע פיר כירורגישע קראנקע.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a9/%D7%9C%D7%99%D7%A0%D7%AA_%D7%97%D7%95%D7%9C%D7%99%D7%9D_-_%D7%A4%D7%90%D7%9C%D7%90%D7%98%D7%A2_%D7%A4%D7%99%D7%A8_%D7%9B%D7%99%D7%A8%D7%95%D7%A8%D7%92%D7%99%D7%A9%D7%A2_%D7%A7%D7%A8%D7%90%D7%A0%D7%A7%D7%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 | `CIRU-0467` | 위밴드 수술장면.jpg | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f2/%EC%9C%84%EB%B0%B4%EB%93%9C_%EC%88%98%EC%88%A0%EC%9E%A5%EB%A9%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 
-## 🗂️ Cardiologia e Patologias Cardiacas (0 Imagens)
+## 🗂️ Cardiologia e Patologias Cardiacas (22 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `CARD-0001` | Anatomia interna do coração: câmaras, valvas e grandes vasos. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/92/2008_Internal_Anatomy_of_the_HeartN.jpg) |
+| `CARD-0002` | Sistema de condução do coração. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/ff/2018_Conduction_System_of_Heart.jpg) |
+| `CARD-0003` | Valvas cardíacas. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b9/2011_Heart_Valves.jpg) |
+| `CARD-0004` | ECG normal em ritmo sinusal. Crédito: Pixel0525; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/ca/Normal_ECG_17yrs_old.jpg) |
+| `CARD-0005` | ECG: infarto agudo do miocárdio com supradesnivelamento de ST (parede anterior). Crédito: vários autores; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/80/ST_elevation_myocardial_infarction_ECG.jpg) |
+| `CARD-0006` | ECG: fibrilação atrial com resposta ventricular controlada. Crédito: Ewingdo; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/87/ECG_Atrial_Fibrillation_98_bpm.jpg) |
+| `CARD-0007` | ECG de 12 derivações: taquicardia ventricular. Crédito: Ksheka (Wikipédia em inglês); CC BY-SA 2.5 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/c4/Electrocardiogram_of_Ventricular_Tachycardia.png) |
+| `CARD-0008` | ECG: bloqueio atrioventricular total (3º grau). Crédito: James Heilman, MD; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/24/CompleteHeartBlock.jpg) |
+| `CARD-0009` | Coronariografia: suboclusão crítica do tronco da coronária esquerda. Crédito: Maria A. Pantaleo et al.; CC BY 2.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/8b/Angiography_coronary_stenosis_01.jpg) |
+| `CARD-0010` | Aterosclerose: esquema da placa e corte histológico de artéria. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f6/2113ab_Atherosclerosis.jpg) |
+| `CARD-0011` | Peça de autópsia: aorta aberta com placas ateromatosas rotas. Crédito: Department of Pathology, Calicut Medical College; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f3/Atherosclerosis_of_aorta.jpg) |
+| `CARD-0012` | Peça anatômica: pequena vegetação de endocardite infecciosa (seta). Crédito: Mikael Häggström; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/83/Gross_pathology_of_vegetation_of_infective_endocarditis%2C_annotated.jpg) |
+| `CARD-0013` | Ecocardiograma: vegetação na valva tricúspide (seta). Crédito: Daisuke Koya et al.; CC BY 2.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/fb/Endocarditis_ultrasound.JPG) |
+| `CARD-0014` | Ecocardiograma: corte de quatro câmaras. Crédito: autor não informado; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/bf/Echocardiogram_4chambers.jpg) |
+| `CARD-0015` | Tomografia do tórax: derrame pericárdico. Crédito: James Heilman, MD; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/97/Pericardial_effusion2009.JPG) |
+| `CARD-0016` | Tomografia: dissecção de aorta tipo A de Stanford. Crédito: J. Heuser; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/4b/AoDiss_CT_A-Diss.jpg) |
+| `CARD-0017` | Tomografia: dissecção da aorta descendente (tipo B de Stanford). Crédito: JasonRobertYoungMD; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/0a/Descending_%28Type_B_Stanford%29_Aortic_Dissection.PNG) |
+| `CARD-0018` | Ilustração: cardiomiopatia dilatada. Crédito: BruceBlaus (Blausen Medical); CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/75/Blausen_0165_Cardiomyopathy_Dilated.png) |
+| `CARD-0019` | Radiografia de tórax com sinais de insuficiência cardíaca congestiva (anotada). Crédito: Mikael Häggström; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/5f/Chest_radiograph_with_signs_of_congestive_heart_failure_-_annotated.jpg) |
+| `CARD-0020` | Radiografia de tórax: cardiomegalia acentuada, com marca-passo. Crédito: James Heilman, MD; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/7a/Cardiomegally.PNG) |
+| `CARD-0021` | Ilustração: cardiomiopatia hipertrófica. Crédito: BruceBlaus (Blausen Medical); CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/33/Blausen_0166_Cardiomyopathy_Hypertrophic.png) |
+| `CARD-0022` | Peça anatômica: estenose mitral. Crédito: CDC (Public Health Image Library); domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/2f/Mitral_stenosis%2C_gross_pathology_20G0015_lores.jpg) |
 
-## 🗂️ Neurologia e Neuropatologias (0 Imagens)
+## 🗂️ Neurologia e Neuropatologias (18 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `NEUR-0001` | Tomografia: hemorragia intracerebral com extensão intraventricular. Crédito: Glitzy queen00 (Wikipédia em inglês); domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/1c/Intracerebral_hemorrage_%28CT_scan%29.jpg) |
+| `NEUR-0002` | AVC hemorrágico: esquema e tomografia. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/03/1602_The_Hemorrhagic_Stroke-02.jpg) |
+| `NEUR-0003` | Tomografia: hemorragia subaracnóidea. Crédito: Dr. George Jallo; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/06/Subarachnoid_hemorrhage_CT_%28uncropped%29.jpg) |
+| `NEUR-0004` | Ressonância: lesões de esclerose múltipla (marcadas). Crédito: James Heilman, MD; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/28/MSMRIMark.png) |
+| `NEUR-0005` | Ressonância T1 com contraste: glioblastoma. Crédito: Hellerhoff; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/2e/Glioblastoma_multiforme_-_MRT_T1KM_ax.jpg) |
+| `NEUR-0006` | Ressonância com contraste, cortes sagitais: meningioma do seio sagital. Crédito: RASPBERRY VIBE; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/70/Meningioma_of_the_sagittal_sinus.jpg) |
+| `NEUR-0007` | Ressonância T1 com contraste: abscesso cerebral com realce em anel. Crédito: Hellerhoff; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/fd/Brain_abscess_-_MRI_T1_KM_axial.jpg) |
+| `NEUR-0008` | Tomografia: hidrocefalia (à esquerda) comparada a encéfalo normal (à direita). Crédito: MBq; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/ab/MBq_Hydrocephalus.jpg) |
+| `NEUR-0009` | Esquema: cérebro normal comparado ao cérebro na doença de Alzheimer. Crédito: ADEAR / National Institute on Aging; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a5/Alzheimer%27s_disease_brain_comparison.jpg) |
+| `NEUR-0010` | Histologia: placa amiloide no hipocampo na doença de Alzheimer. Crédito: Mikael Häggström; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/2d/Histopathology_of_amyloid_plaque_in_Alzheimer%27s_disease_-_annotated.jpg) |
+| `NEUR-0011` | Histologia: substância negra na doença de Parkinson. Crédito: Werner CJ. et al.; CC BY 2.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/45/Histological_sample_of_Substantia_nigra_in_Parkinson%27s_disease_cropped.jpg) |
+| `NEUR-0012` | Histologia: corpo de Lewy na substância negra (doença de Parkinson). Crédito: Tulemo; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/51/Lewy_body_in_the_substantia_nigra_from_a_person_with_Parkinson%27s_disease.jpg) |
+| `NEUR-0013` | EEG: crise de ausência com descargas ponta-onda de 3 Hz. Crédito: Bromfield EB et al.; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/74/EEG_Absence_seizure.png) |
+| `NEUR-0014` | Ressonância da coluna lombar: hérnia de disco (níveis marcados com círculos). Crédito: Miguel Tremblay; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/84/Hernie_discale_L4_L5.png) |
+| `NEUR-0015` | Angiotomografia 3D: aneurisma da artéria cerebral média esquerda. Crédito: Hellerhoff; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/06/Aneurysma_A_cerebri_media.jpg) |
+| `NEUR-0016` | Tomografia: infarto no território da artéria cerebral média. Crédito: Lucien Monfils; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e9/CT_Brain_MCA_Infarct.jpg) |
+| `NEUR-0017` | Tomografia: sinal da artéria cerebral média hiperdensa e infarto recente. Crédito: Hellerhoff; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/03/Dens_media_sign_mit_Mediainfarkt_-_CCT_001.jpg) |
+| `NEUR-0018` | Miastenia gravis: ptose palpebral parcial à direita (a) e depois da reversão (b). Crédito: Mohankumar Kurukumbi et al.; CC BY 2.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/57/Myasthenia_gravis_ptosis_reversal.jpg) |
 
-## 🗂️ Pneumologia e Doencas Respiratorias (0 Imagens)
+## 🗂️ Pneumologia e Doencas Respiratorias (16 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `PNEU-0001` | Radiografia de tórax normal, incidência posteroanterior. Crédito: Mikael Häggström; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a1/Normal_posteroanterior_%28PA%29_chest_radiograph_%28X-ray%29.jpg) |
+| `PNEU-0002` | Radiografia: pneumonia lobar no lobo médio direito. Crédito: Mikael Häggström; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/51/X-ray_of_lobar_pneumonia.jpg) |
+| `PNEU-0003` | Radiografia: tuberculose pulmonar bilateral avançada. Crédito: CDC (Public Health Image Library); domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/9c/Tuberculosis-x-ray-1.jpg) |
+| `PNEU-0004` | Radiografia: tuberculose miliar. Crédito: Benjamín Herreros et al.; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/6c/Chest_radiograph_of_miliary_tuberculosis_1.jpg) |
+| `PNEU-0005` | Radiografia anotada: pneumotórax à esquerda, com pulmão colapsado e desvio do mediastino para a direita. Crédito: Karthik Easvur; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/5a/X-ray_of_pneumothorax_signs.jpg) |
+| `PNEU-0006` | Radiografia em perfil: derrame pleural volumoso. Crédito: James Heilman, MD; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/59/LargePleuralEffusionLatPlain.png) |
+| `PNEU-0007` | Radiografia: câncer de pulmão. Crédito: James Heilman, MD; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/ad/Lung_Cancer_on_Chest_X-Ray.jpg) |
+| `PNEU-0008` | Tomografia: enfisema pulmonar em estágio terminal. Crédito: PLoS Medicine; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b2/Emphysema_CT.JPG) |
+| `PNEU-0009` | Angiotomografia: embolia pulmonar em sela, na bifurcação da artéria pulmonar. Crédito: James Heilman, MD; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/94/Pulmonary_Embolism.jpg) |
+| `PNEU-0010` | Tomografia de alta resolução: fibrose pulmonar idiopática. Crédito: IPFeditor; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/57/HR_tomography_of_the_chest_of_an_IPF_patient_1.jpg) |
+| `PNEU-0011` | Tomografia: bronquiectasias extensas nos lobos inferiores. Crédito: Hellerhoff; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/4b/Massive_Bronchiektasen_-_CT_LF_axial_001.jpg) |
+| `PNEU-0012` | Espirometria: curva fluxo-volume. Crédito: Silvermask (Wikipédia em inglês); CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/65/Flow-volume-loop.png) |
+| `PNEU-0013` | Tomografia axial: pneumonia por COVID-19. Crédito: Hellerhoff; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/ad/COVID-19_Pneumonie_-_74m_CTax_-_002.jpg) |
+| `PNEU-0014` | Radiografia: derrame pleural maciço à esquerda, desviando o coração e a traqueia para a direita. Crédito: Yale Rosen; CC BY-SA 2.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/46/Pleural_effusion_-_Left_lung_%287471755836%29.jpg) |
+| `PNEU-0015` | Radiografia: síndrome do desconforto respiratório agudo (SDRA). Crédito: Samir (Wikipédia em inglês); CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b1/ARDS_X-Ray.jpg) |
+| `PNEU-0016` | Ilustração: via aérea normal e via aérea durante a crise de asma. Crédito: National Heart, Lung, and Blood Institute (NIH); domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/4a/Asthma_attack-illustration_NIH.jpg) |
 
-## 🗂️ Gastroenterologia e Hepatologia (0 Imagens)
+## 🗂️ Gastroenterologia e Hepatologia (20 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `GAST-0001` | Ilustração: fígado normal comparado a fígado com cirrose. Crédito: BruceBlaus (Blausen Medical); CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/ec/Liver_Cirrhosis.png) |
+| `GAST-0002` | Histologia: cirrose hepática, nódulos de hepatócitos cercados por faixas de fibrose. Crédito: Calicut Medical College; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/98/Cirrhosis_Liver_4x.jpg) |
+| `GAST-0003` | Tomografia trifásica: carcinoma hepatocelular. Crédito: Zhenyu Pan et al.; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/d5/Triphasic_CT_scan_of_hepatocellular_carcinoma.jpg) |
+| `GAST-0004` | Colonoscopia: colite de Crohn grave. Crédito: Samir (Wikipédia em inglês); CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/d8/CD_colitis_2.jpg) |
+| `GAST-0005` | Endoscopia: retocolite ulcerativa. Crédito: Sebb; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/72/Ulcerative_colitis.jpg) |
+| `GAST-0006` | Ilustração: ligadura elástica endoscópica de varizes esofágicas. Crédito: Kel898; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/be/Endoscopic_Banding_for_Esophageal_Varices.png) |
+| `GAST-0007` | Tomografia coronal: apendicite sub-hepática (anotada). Crédito: Hellerhoff; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/67/Subhepatische_Appendicitis_45M_-_CT_coronar_-_001_-_Annotation.jpg) |
+| `GAST-0008` | Colonoscopia: pólipo pediculado do cólon e sua retirada (polipectomia). Crédito: Gilo1969; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f4/Polypectomy.jpg) |
+| `GAST-0009` | Tomografia: pancreatite aguda exsudativa, com líquido ao redor do pâncreas. Crédito: Hellerhoff; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/eb/Akute_exsudative_Pankreatitis_-_CT_axial.jpg) |
+| `GAST-0010` | Ascite volumosa por hipertensão portal na cirrose. Crédito: James Heilman, MD; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a3/Hepaticfailure.jpg) |
+| `GAST-0011` | Biópsia gástrica (Giemsa): Helicobacter pylori. Crédito: Ed Uthman; CC BY 2.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/04/Helicobacter_pylori%2C_Gastric_Biopsy%2C_Giemsa_Stain_%285517582111%29.jpg) |
+| `GAST-0012` | Endoscopia: úlcera gástrica profunda. Crédito: Samir (Wikipédia em inglês); CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/7d/Deep_gastric_ulcer.png) |
+| `GAST-0013` | Endoscopia: úlcera péptica no antro gástrico. Crédito: డా. గన్నవరపు నరసింహమూర్తి; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/13/Peptic_ulcer.jpg) |
+| `GAST-0014` | Endoscopia: varizes esofágicas com manchas vermelhas (sinal de risco de sangramento). Crédito: Samir (Wikipédia em inglês); domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b6/Esophageal_varices_-_wale.jpg) |
+| `GAST-0015` | Endoscopia: esôfago de Barrett. Crédito: Samir (Wikipédia em inglês); uso livre | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/86/Barretts_esophagus.jpg) |
+| `GAST-0016` | Histologia: esôfago de Barrett, epitélio intestinalizado com células caliciformes (anotada). Crédito: Mikael Häggström; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/0c/Histopathology_of_Barrett%27s_esophagus%2C_annotated.jpg) |
+| `GAST-0017` | Vesícula biliar aberta com numerosos cálculos. Crédito: Emmanuelm (Wikipédia em inglês); CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/e4/Gallstones.jpg) |
+| `GAST-0018` | Ultrassom: esteatose hepática (fígado gorduroso). Crédito: Cerevisae; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/ea/Ultrasound_of_upper_right_liver_lobe_showing_fatty_liver.jpg) |
+| `GAST-0019` | Histologia: esteatose hepática, com vacúolos de gordura nos hepatócitos. Crédito: Department of Pathology, Calicut Medical College; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/46/Fatty_change_liver_-_Lipid_steatosis_10X.jpg) |
+| `GAST-0020` | Icterícia: coloração amarelada da conjuntiva e da esclera em paciente com hepatite A. Crédito: CDC (Public Health Image Library); domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/de/Jaundice_eye.jpg) |
 
-## 🗂️ Nefrologia e Urologia (0 Imagens)
+## 🗂️ Nefrologia e Urologia (17 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `NEFR-0001` | Tomografia sem contraste: múltiplos cálculos renais bilaterais. Crédito: Kristie Guite, Louis Hinshaw and Fred Lee; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/8c/Non-contrast_CT_of_multiple_bilateral_renal_calculi.jpg) |
+| `NEFR-0002` | Tomografia sem contraste: cálculo no ureter proximal direito com obstrução leve. Crédito: James Heilman, MD; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/5f/KidneyStone.JPG) |
+| `NEFR-0003` | Radiografia: cálculo coraliforme ocupando os cálices e a pelve renal. Crédito: Nevit Dilmen; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/31/Staghorn_Kidney_Stone_08779.jpg) |
+| `NEFR-0004` | Ultrassom: hidronefrose moderada do rim direito. Crédito: Cerevisae; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f8/Ultrasound_of_right_kidney_moderate_hydronephrosis.jpg) |
+| `NEFR-0005` | Tomografia: doença renal policística autossômica dominante. Crédito: Steven Fruitsmaak; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/16/CT_scan_autosomal_dominant_polycystic_kidney_disease.jpg) |
+| `NEFR-0006` | Peça de nefrectomia: rim policístico do adulto. Crédito: Ed Uthman; CC BY 2.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/e/ec/Adult_Polycystic_Kidney.jpg) |
+| `NEFR-0007` | Tomografia com contraste: carcinoma de células renais cistoide à direita. Crédito: Hellerhoff; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f6/Zystoides_Nierenzellkarzinom_73W_-_CT_axial_und_coronar_KM_pv_-_001.jpg) |
+| `NEFR-0008` | Tomografia sem contraste: pielonefrite bilateral (densificação da gordura perirrenal). Crédito: Cerevisae; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/2f/Bilateral_pyelonephritis_on_plain_CT_scan.jpg) |
+| `NEFR-0009` | Ilustração: anatomia normal e hiperplasia prostática benigna. Crédito: National Cancer Institute; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/cd/Benign_Prostatic_Hyperplasia_nci-vol-7137-300.jpg) |
+| `NEFR-0010` | Sedimento urinário: cilindro hialino. Crédito: Ajay Kumar Chaurasiya; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b6/Hyaline_Cast_in_Urine_Microscopy.jpg) |
+| `NEFR-0011` | Sedimento urinário: cilindros granulosos. Crédito: Ajay Kumar Chaurasiya; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b5/Granular_Casts_in_Urine_Microscopy.jpg) |
+| `NEFR-0012` | Sedimento urinário: cilindro leucocitário. Crédito: Ajay Kumar Chaurasiya; CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/f/f7/WBC_cast_in_urine.jpg) |
+| `NEFR-0013` | Ilustração: transplante renal. Crédito: BruceBlaus (Blausen Medical); CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/13/Kidney_Transplant.png) |
+| `NEFR-0014` | Histologia: glomerulonefrite crescêntica (rapidamente progressiva). Crédito: Nephron; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/09/Crescentic_glomerulonephritis_-_high_mag.jpg) |
+| `NEFR-0015` | Histologia: glomeruloesclerose nodular na nefropatia diabética. Crédito: Doc.mari; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/8/84/Diabetic_nephropathy.jpg) |
+| `NEFR-0016` | Ilustração: câncer de bexiga. Crédito: Blausen Medical; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/9/99/Blausen_0082_BladderCancer.png) |
+| `NEFR-0017` | Histologia: carcinoma de células renais do tipo células claras, grau 2. Crédito: Mikael Häggström; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/0/0e/Grade_2_clear_cell_renal_cell_carcinoma%2C_original.jpg) |
 
 ## 🗂️ Ortopedia e Reumatologia (8 Imagens)
 
@@ -3280,10 +3511,30 @@ Imagens de dermatoscopia do ISIC Archive (licença CC-0). Diagnóstico e dados c
 | `HEMA-0033` | Torque-displacement.JPG | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/1f/Torque-displacement.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 | `HEMA-0034` | 白血球分画.png | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/7f/%E7%99%BD%E8%A1%80%E7%90%83%E5%88%86%E7%94%BB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original) |
 
-## 🗂️ Ginecologia Obstetricia e Mastologia (0 Imagens)
+## 🗂️ Ginecologia Obstetricia e Mastologia (20 Imagens)
 
 | Código | Título do Arquivo | Link Direto (RAW) |
 | :--- | :--- | :--- |
+| `GINE-0001` | Mamografia: área esbranquiçada diagnosticada como câncer de mama. Crédito: National Cancer Institute; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/dc/Mammogram_showing_cancer.jpg) |
+| `GINE-0002` | Mamografia: comparação entre mama densa e mama gordurosa, ambas normais. Crédito: National Cancer Institute; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/1/12/Mammogram_showing_dense_and_fatty_breasts.jpg) |
+| `GINE-0003` | Ultrassom obstétrico: perfil de feto de 20 semanas. Crédito: Goleisureintl; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/c/cb/Obstetric_ultrasound_scan_monitor_showing_20-week_human_fetus_profile_in_Navi_Mumbai_2015.jpg) |
+| `GINE-0004` | Ilustração: estágios do trabalho de parto. Crédito: OpenStax College; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/32/2920_Stages_of_Childbirth-02.jpg) |
+| `GINE-0005` | Ilustração: placenta prévia. Crédito: OpenStax College; CC BY 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/23/2906_Placenta_Previa-02.jpg) |
+| `GINE-0006` | Cardiotocografia: traçado típico de gestante fora de trabalho de parto. Crédito: Phantom Steve; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/a/a5/CTG_Output.jpg) |
+| `GINE-0007` | Ultrassom transvaginal: gravidez ectópica (sinal da massa anexial). Crédito: Mikael Häggström; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/21/Blob_sign_of_ectopic_pregnancy.png) |
+| `GINE-0008` | Ilustração: miomas uterinos. Crédito: BruceBlaus (Blausen Medical); CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/53/Uterine_Fibroids.png) |
+| `GINE-0009` | Peça cirúrgica: mioma uterino subseroso. Crédito: Narraburra; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/79/Sub-serosal_uterine_fibroid.jpg) |
+| `GINE-0010` | Ultrassom: cisto ovariano hemorrágico. Crédito: Mme Mim; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/35/Haemorrhagic_ovarian_cyst_ultrasound.jpg) |
+| `GINE-0011` | Ultrassom transvaginal: ovário policístico. Crédito: Schomynv; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/5d/Polycystic_ovary.jpg) |
+| `GINE-0012` | Ultrassom transvaginal: endometrioma no ovário direito. Crédito: Mikael Häggström; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/24/Endometrioma.jpg) |
+| `GINE-0013` | Citologia cervicovaginal (Papanicolau) normal. Crédito: Cagliostro; domínio público | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/d/d6/Pap_test_wnl.jpg) |
+| `GINE-0014` | Esquema: tipos de zona de transformação do colo do útero (junção escamocolunar). Crédito: Mikael Häggström; CC0 (domínio público) | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/b/b7/Transformation_zone_types.png) |
+| `GINE-0015` | Ilustração: exame de colposcopia. Crédito: BruceBlaus (Blausen Medical); CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/7/76/Colposcopy.png) |
+| `GINE-0016` | Laparoscopia: lesão de endometriose peritoneal superficial (seta). Crédito: Stefano Di Michele et al; CC BY 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/6/61/Superficial_peritoneal_endometriosis.png) |
+| `GINE-0017` | Ultrassom: câncer de mama em mulher de 42 anos. Crédito: Nevit Dilmen; CC BY-SA 3.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/2/2a/Breast_cancer_ultrasound_2017010002.jpg) |
+| `GINE-0018` | Peça de histerectomia: mola hidatiforme completa. Crédito: Ed Uthman; CC BY 2.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/5/59/Complete_Hydatidiform_Mole_%2839611782015%29.jpg) |
+| `GINE-0019` | Doppler obstétrico: artéria umbilical com fluxo normal. Crédito: Indiramani, Ratnakumari e Jyothirmayi (2016); CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/3/34/Art%C3%A8re_ombilcale_avec_flux_normal.png) |
+| `GINE-0020` | Doppler obstétrico: artéria umbilical com fluxo diastólico ausente. Crédito: Indiramani, Ratnakumari e Jyothirmayi (2016); CC BY-SA 4.0 | [Acessar Imagem](https://upload.wikimedia.org/wikipedia/commons/4/4d/Art%C3%A8re_ombilcale_avec_flux_diastolique_nul.png) |
 
 ## 🗂️ Pediatria e Anomalias Congenitas (130 Imagens)
 
